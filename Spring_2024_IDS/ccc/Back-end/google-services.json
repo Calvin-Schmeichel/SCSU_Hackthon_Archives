@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774478335639",
+    "project_id": "ccc-hackathon-77a0d",
+    "storage_bucket": "ccc-hackathon-77a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774478335639:android:d33241d9e7cc338315e3d2",
+        "android_client_info": {
+          "package_name": "com.cccHackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlLEMImmBSS0fN7zi__LQ30LwNz5usn5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
