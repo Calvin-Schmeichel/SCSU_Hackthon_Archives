@@ -1,0 +1,4 @@
+{Time:1, Idling:True, Discharge: False, Charge: False}
+{Time:2, Idling:True, Discharge: False, Charge: False}
+{Time:3, Idling:True, Discharge: False, Charge: False}
+{Time:4, Idling:True, Discharge: False, Charge: False}
