@@ -36,9 +36,10 @@ _This challenge does not have any test data._
 </div>
 
 
+
 ## Target Outcome
 React native app prototype showcasing capture of a before and after photo, where the capture of the after photo is guided to match the same position and orientation as the before photo.
-
+<!--
 ## How to Run
 *Teams fill in this section with instructions on how to run the application.*
 
@@ -53,9 +54,11 @@ React native app prototype showcasing capture of a before and after photo, where
 *Provided after hackathon judging is completed.*
 <!--- Hello! Thank you so much for sponsoring SCSU and helping host the Spring 2024 Hackathon! We had a ton of fun and learned a lot about React Native, Cameras and 3D models. --->
 
+<!---
 ## Culture Index Survey
 Immersion Data Solutions has engaged with a behavior assessment company, Culture Index. We use it to better understand the intrinsic motivational needs and preferred communication style of our team members; ensuring their current roles fit their strengths and fulfillment needs.
 
 We are pleased to offer you the chance to take the assessment and view your results. The process takes roughly 8 minutes or less. By participating, you will gain insights into your own behavioral tendencies and preferences, which can be invaluable for personal and professional development.
 
 [Please begin assessment here.](https://surveys.cultureindex.com/s/jytaqq125Q/48857) Within the 'job title' field, please enter  **SCSU**  and we will share the results with you.
+-->
